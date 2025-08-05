@@ -1,4 +1,6 @@
-🧩 Project Overview
+ # 🧩 Sudoku CSP Solver
+
+ 🧩 Project Overview
 
 This project implements an AI-based Sudoku Solver using three distinct techniques from Constraint Satisfaction Problem (CSP) theory:
 
@@ -12,9 +14,7 @@ This project implements an AI-based Sudoku Solver using three distinct technique
 
 * MRV (Minimum Remaining Values): Selects the most constrained variable first, reducing the search space dramatically.
 
- 
- # 🧩 Sudoku CSP Solver
-
+ -----------
 
 This project implements a Sudoku solver in Python using three different strategies:
 1. **Brute Force Search**
@@ -23,7 +23,7 @@ This project implements a Sudoku solver in Python using three different strategi
 
 Developed for **CS480 - Artificial Intelligence** at Illinois Institute of Technology.
 
----
+-----------
 
 ## 📁 Files Included
 
